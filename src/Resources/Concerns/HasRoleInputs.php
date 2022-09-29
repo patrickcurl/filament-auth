@@ -24,7 +24,7 @@ trait HasRoleInputs
                     ->label('Title'),
                 TextInput::make('scope')
                     ->label('Scope')
-                    ->tooltip('Only needed for multitenancy'),
+                    ->hint('Only needed for multitenancy'),
             ]);
         }
 

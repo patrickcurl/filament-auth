@@ -27,7 +27,7 @@ trait HasPermissionInputs
                     ->label('Entity Name'),
                 TextInput::make('scope')
                     ->label('Scope')
-                    ->tooltip('Only needed for multitenancy'),
+                    ->hint('Only needed for multitenancy'),
                 Toggle::make('only_owned')->label('Only Owned')->default(true),
             ]);
         }
