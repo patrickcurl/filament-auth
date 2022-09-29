@@ -1,5 +1,5 @@
 {
-  "name": "zvive/filament-auth",
+  "name": "patrickcurl/filament-auth",
   "description": "User & Role (via Spatie Roles/Permissions) Manager Resource For Filament Admin, forked from forked from phpsa/filament-authentication - added Bouncer as an option for permissions as well.",
   "keywords": [
     "laravel",
@@ -28,7 +28,7 @@
   "minimum-stability": "dev",
   "require": {
     "php": "^8.0",
-    "filament/filament": "^2.12.18",
+    "filament/filament": "^v2.9.9",
     "lab404/laravel-impersonate": "^1.7",
     "spatie/laravel-package-tools": "^1.10",
     "laravel/framework": "^9.0"

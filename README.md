@@ -1,6 +1,6 @@
-[![Latest Version on Packagist](https://img.shields.io/packagist/v/zvive/filament-auth.svg?style=flat-square)](https://packagist.org/packages/zvive/filament-auth)
-[![Semantic Release](https://github.com/zvive/filament-auth/actions/workflows/release.yml/badge.svg)](https://github.com/zvive/filament-auth/actions/workflows/release.yml)
-[![Total Downloads](https://img.shields.io/packagist/dt/zvive/filament-auth.svg?style=flat-square)](https://packagist.org/packages/zvive/filament-auth)
+[![Latest Version on Packagist](https://img.shields.io/packagist/v/patrickcurl/filament-auth.svg?style=flat-square)](https://packagist.org/packages/patrickcurl/filament-auth)
+[![Semantic Release](https://github.com/patrickcurl/filament-auth/actions/workflows/release.yml/badge.svg)](https://github.com/patrickcurl/filament-auth/actions/workflows/release.yml)
+[![Total Downloads](https://img.shields.io/packagist/dt/patrickcurl/filament-auth.svg?style=flat-square)](https://packagist.org/packages/patrickcurl/filament-auth)
 
 # Filament User Authentication
 
@@ -11,7 +11,7 @@ User Resource For Filament Admin along with Roles & Permissions using Spatie
 You can install the package via composer:
 
 ```bash
-composer require zvive/filament-auth
+composer require patrickcurl/filament-auth
 ```
 
 and now clear cache
@@ -172,7 +172,7 @@ Please see [CHANGELOG](CHANGELOG.md) for more information on what has changed re
 ## Credits
 
 - [Phpsa](https://github.com/phpsa/filament-authentication) Forked from this, added Bouncer.
-- [Patrick Curl](https://github.com/patrickcurl) / [Zvive](https://github.com/zvive) Maintainer of this package.
+- [Patrick Curl](https://github.com/patrickcurl) Maintainer of this package.
 
 ## License
 

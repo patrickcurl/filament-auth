@@ -1,7 +1,7 @@
 {
   "name": "filament-authentication",
   "version": "0.0.1",
-  "description": "[![Latest Version on Packagist](https://img.shields.io/packagist/v/zvive/filament-auth.svg?style=flat-square)](https://packagist.org/packages/zvive/filament-auth) [![Semantic Release](https://github.com/zvive/filament-auth/actions/workflows/release.yml/badge.svg)](https://github.com/zvive/filament-auth/actions/workflows/release.yml) [![Total Downloads](https://img.shields.io/packagist/dt/zvive/filament-auth.svg?style=flat-square)](https://packagist.org/packages/zvive/filament-auth)",
+  "description": "[![Latest Version on Packagist](https://img.shields.io/packagist/v/patrickcurl/filament-auth.svg?style=flat-square)](https://packagist.org/packages/patrickcurl/filament-auth) [![Semantic Release](https://github.com/patrickcurl/filament-auth/actions/workflows/release.yml/badge.svg)](https://github.com/patrickcurl/filament-auth/actions/workflows/release.yml) [![Total Downloads](https://img.shields.io/packagist/dt/patrickcurl/filament-auth.svg?style=flat-square)](https://packagist.org/packages/patrickcurl/filament-auth)",
   "main": "index.js",
   "directories": {
     "doc": "docs"
@@ -11,15 +11,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/zvive/filament-auth.git"
+    "url": "git+https://github.com/patrickcurl/filament-auth.git"
   },
   "keywords": [],
   "author": "Patrick Curl <patrickwcurl@gmail.com> (https://github.com/patrickcurl)",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/zvive/filament-auth/issues"
+    "url": "https://github.com/patrickcurl/filament-auth/issues"
   },
-  "homepage": "https://github.com/zvive/filament-auth#readme",
+  "homepage": "https://github.com/patrickcurl/filament-auth#readme",
   "dependencies": {
     "semantic-release": "^19.0.5"
   },
